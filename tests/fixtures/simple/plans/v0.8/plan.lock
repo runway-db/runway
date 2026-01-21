@@ -1,0 +1,9 @@
+name = "v0.8"
+
+[engines.postgres]
+create_posts = "c1df13faebfdb78118695cf959f2774b16b97549d147a015e8ba068427789661"
+create_users = "f9f1e4e1eb52aadc205243aec74fe6c60239ccb6ee006a83f710e3d7d5c23ad5"
+
+[engines.sqlite]
+create_posts = "c1df13faebfdb78118695cf959f2774b16b97549d147a015e8ba068427789661"
+create_users = "7b152f2ea6beef80486e9d5b2752189bfa939061f6d2e6cc6821ae3e199e5279"
